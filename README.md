@@ -3,7 +3,19 @@
 A **web-based summarization tool** built with **Python** and **Streamlit**, powered by the **txtai** library. It allows users to **summarize long text instantly** or **extract and summarize PDF documents** with AI — all in a modern, responsive interface.  
 
 ---
+## Preview  
 
+**Text Summary**
+
+![text summary Preview](image/Text-summary.png)  
+
+---
+
+**Docs/PDF Summary**
+
+![pdf summary Preview](image/pdf-summary.png)  
+
+---
 ## Overview  
 
 LexiBrief is designed to make reading, studying, and research **faster and smarter** by offering:
@@ -26,6 +38,10 @@ LexiBrief is designed to make reading, studying, and research **faster and smart
 ✅ **Fast Loading** – Caches the AI model to reduce repeated loading time  
 ✅ **Clean Codebase** – Easy to read, customize, and extend
 
+---
+##  Try it out now
+
+https://lexibrief.streamlit.app/
 ---
 
 ## How to Run  
