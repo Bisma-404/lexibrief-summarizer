@@ -33,7 +33,6 @@ LexiBrief is designed to make reading, studying, and research **faster and smart
 
 ✅ **Text Summarization** – Paste articles, essays, or reports and get concise AI summaries  
 ✅ **PDF Summarization** – Upload PDFs and receive extracted text along with summaries  
-✅ **Dark/Light Mode** – Toggle themes for reading comfort  
 ✅ **Responsive UI** – Works well on desktop & tablets  
 ✅ **Fast Loading** – Caches the AI model to reduce repeated loading time  
 ✅ **Clean Codebase** – Easy to read, customize, and extend
