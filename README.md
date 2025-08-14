@@ -22,7 +22,6 @@ LexiBrief is designed to make reading, studying, and research **faster and smart
 
 - **Instant AI-powered text summarization** for any content  
 - **Automated PDF text extraction & summarization** using `PyPDF2` + `txtai`  
-- **Light/Dark mode** for comfortable reading  
 - **Minimal, responsive design** with smooth interaction  
 - **Fast results** via cached AI models for quicker responses  
 - Perfect for **students, professionals, researchers**, and busy readers
